@@ -4,8 +4,8 @@
 
 Soy Técnico Superior en Desarrollo de Aplicaciones Multiplataforma y actualmente estoy ampliando mi perfil hacia **Data Engineering e Inteligencia Artificial**.
 
-💻 Java · Spring · SQL · Python
-📚 Profundizando en Python y especializándome en Data Engineering
+💻 Java · Spring · SQL · Python <br>
+📚 Profundizando en Python y especializándome en Data Engineering <br>
 🚀 Interesado en desarrollo backend, datos e IA
 
 ---
