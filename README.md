@@ -22,14 +22,13 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Me muevo 
  
 ## 🚀 Proyectos destacados
  
-- **[Trabajo Final de Grado](https://github.com/herra21/NOMBRE-REPO-TFG)** — `[COMPLETAR: una línea sobre qué resuelve]`. *Java · Spring Boot · MariaDB* `[ajusta el stack]`
+- **[Trabajo Final de Grado](https://github.com/herra21/NOMBRE-REPO-TFG)** — `App para gestión de mercancías.`. *Java · Spring Boot · MariaDB*
 ---
  
 ## 📚 Qué estoy haciendo ahora
  
 - Cursando el **Máster en Inteligencia Artificial y Data Engineering** (Tajamar).
 - Profundizando en **Python** aplicado a datos.
-- Apuntes y ejercicios de mi formación en [apuntes-dam](https://github.com/herra21/apuntes-dam).
 ---
  
 ## 📫 Contacto
