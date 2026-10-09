@@ -15,7 +15,6 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Me muevo 
 | **Backend** | Java, Spring Boot, Spring Data JPA |
 | **Bases de datos** | MariaDB, SQL |
 | **Datos / IA** | Python *(en formación)* |
-| **Frontend (base)** | JavaScript, TypeScript |
 | **Herramientas** | Git, GitHub |
  
 ---
