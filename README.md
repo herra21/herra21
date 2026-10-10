@@ -21,7 +21,7 @@ Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Me muevo 
  
 ## 🚀 Proyectos destacados
  
-- **[Trabajo Final de Grado](https://github.com/herra21/NOMBRE-REPO-TFG)** — `App para gestión de mercancías.`. *Java · Spring Boot · MariaDB*
+- **[Trabajo Final de Grado](https://github.com/herra21/LoadSafe)** — `App para gestión de mercancías.`. *Java · Spring Boot · MariaDB*
 ---
  
 ## 📚 Qué estoy haciendo ahora
